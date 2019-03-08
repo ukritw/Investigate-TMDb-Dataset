@@ -1,4 +1,4 @@
-# P2: Investigate TMDb Movie Dataset
+# Investigate the TMDb Movie Dataset
 ## Overview
 In this project, I analyzed the TMDb movie dataset by using the Python libraries NumPy, pandas, Seaborn and Matplotlib. 
 
