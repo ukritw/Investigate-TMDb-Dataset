@@ -10,7 +10,7 @@ The project primary goal is to go through the general data analysis process, so 
 - Exploratory data analysis 
 - Conclusion/Findings
 
-Finding reports and code can be found at [Jupyter Notebook](https://github.com/ukritw/Investigate-TMDb-Dataset/blob/master/investigate-a-dataset-template-Copy1.ipynb).
+Finding reports and code can be found in the [Jupyter Notebook](https://github.com/ukritw/Investigate-TMDb-Dataset/blob/master/TMDb-analysis.ipynb).
 
 ## Question Researched
 #### Question 1: Genre Exploration
