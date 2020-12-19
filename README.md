@@ -13,5 +13,6 @@ The project primary goal is to go through the general data analysis process, so 
 Finding reports and code can be found in the [Jupyter Notebook](https://github.com/ukritw/Investigate-TMDb-Dataset/blob/master/TMDb-analysis.ipynb).
 
 ## Question Researched
-#### Question 1: Genre Exploration
-#### Question 2: What kinds of properties are associated with movies that have high revenues?
+#### Question 1: Which genres are most popular from year to year?
+#### Question 2: What genres are the most profitable?
+#### Question 3: What kinds of properties are associated with movies that have high revenues?
